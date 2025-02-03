@@ -49,10 +49,5 @@
     "jest-environment-jsdom": "^29.7.0",
     "sass": "1.59.2",
     "vite": "4.4.2"
-  },
-  "jest": {
-    "watchPathIgnorePatterns": [
-      "<rootDir>/node_modules/"
-    ]
   }
 }
